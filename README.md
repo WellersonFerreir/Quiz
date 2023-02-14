@@ -14,3 +14,6 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+
+<h3>GIF do peojeto:</h3>
+<img src="./assets/readme/apresentação.gif">
