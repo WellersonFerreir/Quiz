@@ -4,10 +4,11 @@
 
 <h2><ol>Como Jogar</ol></h2>
 
-<li>Abra o arquivo index.html em um navegador web.</li>
-<li>Leia a pergunta e clique na alternativa que você acha que é correta.</li>
-<li>Se a alternativa escolhida for correta, você pontua um ponto.</li>
-<li>O quiz acaba quando todas as perguntas forem respondidas.</li>
+<li>Baixe o arquivo ZIP;</li>
+<li>Abra o arquivo index.html em um navegador web;</li>
+<li>Leia a pergunta e clique na alternativa que você acha que é correta;</li>
+<li>Se a alternativa escolhida for correta, você pontua um ponto;</li>
+<li>O quiz acaba quando todas as perguntas forem respondidas;</li>
 <li>Ao final, você verá quantas perguntas acertou.</li>
 
 <h2><ol>Tecnologias Utilizadas<ol></h2>
